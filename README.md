@@ -1,2 +1,2 @@
 # fifa_dominion
-A Game we invented that combines dominion and fifa
+A game we invented that combines the game of dominion and fifa.
